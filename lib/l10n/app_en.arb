@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "appTitle": "My Tasks",
+  "addTask": "Add Task",
+  "taskAdded": "Task was added",
+  "addTaskShort": "Add",
+  "addTaskInstruction": "Add task description",
+  "cancel": "Cancel",
+  "emptyList": "No tasks yet!"
+}

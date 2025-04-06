@@ -1,0 +1,10 @@
+{
+  "@@locale": "ru",
+  "appTitle": "Мои задачи",
+  "addTask": "Добавить задачу",
+  "taskAdded": "Задача добавлена",
+  "addTaskShort": "Добавить",
+  "addTaskInstruction": "Введите текст задачи",
+  "cancel": "Отмена",
+  "emptyList": "Задач пока нет"
+}

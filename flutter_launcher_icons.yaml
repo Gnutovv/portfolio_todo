@@ -1,0 +1,5 @@
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/app_icon.png"  # Путь к вашей иконке (рекомендуется 1024x1024)
+  adaptive_icon_background: "#2196F3"  # Цвет фона для Android 8+
